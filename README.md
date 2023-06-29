@@ -1,4 +1,4 @@
-# mini_project_ML
+# mini_project_ML 
 
 - 프로젝트 데이터 : https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 - 협업 툴 : Google docs, Slack
