@@ -3,7 +3,7 @@
 - 프로젝트 데이터 : https://www.kaggle.com/datasets/shilongzhuang/telecom-customer-churn-by-maven-analytics
 - 협업 툴 : Google docs, Slack
 - 기술 스택 : Python, Google Colab, jupyter notebook
-- 프로젝트 기간 : 2023.06.12-2023.06.23
+- 프로젝트 기간 : 2023.06.12-2023.06.23.
 ---
 팀 멤버
 * 최재혁
